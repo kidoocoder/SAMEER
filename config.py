@@ -24,9 +24,9 @@ LOGGER_ID = int(getenv("LOGGER_ID", None)) # Chat id of a group for logging bot'
 
 OWNER_ID = int(getenv("OWNER_ID", 7403621976)) # Get this value from @MissRose_bot on Telegram by /id
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SYNTAX_WORLD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FRIENDS_ZONE_CHATTING_GROUP")
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/VIKRANT_WORLD")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FRIENDS_ZONE_CHATTING_GROUP")
 
 # Get your pyrogram v2 session from https://telegram.tools/session-string-generator#pyrogram on Telegram
 
@@ -42,16 +42,16 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/sz8xwz.jpg"
+    "START_IMG_URL", "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/9cevdg.jpg"
+    "PING_IMG_URL", "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 )
 
-PLAYLIST_IMG_URL = "https://files.catbox.moe/i493lf.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 
-STATS_IMG_URL = "https://files.catbox.moe/i0qmgf.jpg"
+STATS_IMG_URL = "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
 
