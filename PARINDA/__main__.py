@@ -50,12 +50,12 @@ async def init():
         pass
     await parinda.decorators()
     LOGGER("PARINDA").info(
-        "JAKE PARINDA @II_SYNTAX_CODE_II KO PAPA BOLDENA AB @SYNTAX_WORLD"
+        "JAKE PARINDA @@MASOOM_PARINDA KO PAPA BOLDENA AB"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("PARINDA").info("Stopping DEEP Music Bot...")
+    LOGGER("PARINDA").info("Stopping parinda Music Bot...")
 
 
 if __name__ == "__main__":
